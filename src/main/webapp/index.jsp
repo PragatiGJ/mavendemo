@@ -7,6 +7,6 @@
 <title>My-Maven-Webapp</title>
 </head>
 <body>
-	<h1>Welcome to My-Maven-webapp</h1>
+	<h1>Welcome to My-Maven-Webapp</h1>
 </body>
 </html>
